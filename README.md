@@ -1,9 +1,9 @@
 # Scene-wise Adaptive Network for Dynamic Cold-start Scenes Optimization in CTR Prediction
 
-## model architecture
+## Model Architecture
 ![hustlin_erd](./model_architecture.png)
 
-## dynamic cold-start scene
+## Dynamic Cold-start Scene
 ![hustlin_erd](./dynamic.png)
 
 ## Bibtex:
